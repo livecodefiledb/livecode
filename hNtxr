@@ -1,2 +1,3 @@
+<title>Commit 2</title>
 <p>Hello, world!</p>
 <script>alert('Hello World!')</script>
