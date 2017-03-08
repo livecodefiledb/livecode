@@ -18,4 +18,4 @@ This is a text editor that:
 
 - Magic JS stuff for the text editor GUI. And by that I mean CodeMirror's editor (it is pretty)
 
-- The future viewer will do something with the GitHub file, likely view it's s
+- The future viewer will do something with the GitHub file, likely view its source code in an iframe.
