@@ -16,4 +16,6 @@ This is a text editor that:
 
 - It uploads every ten seconds to a GitHub repo
 
-- Magic JS stuff for the text editor GUI. And by that I mean CodeMirror's edito
+- Magic JS stuff for the text editor GUI. And by that I mean CodeMirror's editor (it is pretty)
+
+- The future client 
