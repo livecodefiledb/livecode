@@ -16,4 +16,4 @@ This is a text editor that:
 
 - It uploads every ten seconds to a GitHub repo
 
-- 
+- Magic JS stuff for the text editor GUI. 
