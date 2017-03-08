@@ -10,10 +10,10 @@ This is a text editor that:
 
 - Logs everything with GitHub's GIT backend
 
-- Has way too many commits
+- Has way too many commits (lol!)
 
 ### How does this work?
 
-- It uploads most every keystroke to GitHub
+- It uploads every ten seconds
 
 - I mean every one. And each letter or two's a commit, even the typos!
