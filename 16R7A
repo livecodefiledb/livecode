@@ -1,5 +1,5 @@
 <h1>The solution to GitHub's \n issue:</h1>
-
+<p>Hello World!</p>
 <script>
 var word = "According\nto\nlaws"
 var word = word.replace(/\n/g, '')
